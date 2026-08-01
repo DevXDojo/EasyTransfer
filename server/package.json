@@ -32,7 +32,7 @@
     "eslint": "^9.36.0",
     "nodemon": "^3.1.10",
     "prettier": "^3.6.2",
-    "typescript": "^5.8.3",
+    "typescript": "^7.0.2",
     "vitest": "^4.1.2"
   }
 }
