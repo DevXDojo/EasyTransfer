@@ -27,7 +27,7 @@
     "@typescript-eslint/parser": "^8.56.1",
     "@vitejs/plugin-vue": "^6.0.8",
     "@vitejs/plugin-vue-jsx": "^5.1.6",
-    "@vitest/ui": "^4.0.7",
+    "@vitest/ui": "^4.1.10",
     "@vue/cli-plugin-typescript": "^5.0.9",
     "@vue/eslint-config-prettier": "^10.2.0",
     "@vue/runtime-core": "^3.5.26",
