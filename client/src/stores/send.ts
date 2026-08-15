@@ -128,7 +128,7 @@ export const useSendStore = defineStore('send', () => {
   }
 
   async function processQueue(meta?: boolean) {
-    let sendChannel = null
+    let sendChannel: RTCDataChannel
     if (meta) {
       sendChannel = sendChannels.value[0]
     } else {
