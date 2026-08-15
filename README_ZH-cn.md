@@ -5,7 +5,7 @@
 
 [English](README.md) | 简体中文
 
-[![GitHub issues](https://img.shields.io/github/issues/WCY-dt/EasyTransfer)](https://github.com/WCY-dt/EasyTransfer/issues) [![GitHub pull requests](https://img.shields.io/github/issues-pr/WCY-dt/EasyTransfer)](https://github.com/WCY-dt/EasyTransfer/pulls) [![GitHub license](https://img.shields.io/github/license/WCY-dt/EasyTransfer)](https://github.com/WCY-dt/EasyTransfer/blob/main/LICENSE) ![GitHub package.json version](https://img.shields.io/github/package-json/v/WCY-dt/EasyTransfer?filename=client%2Fpackage.json)
+[![GitHub issues](https://img.shields.io/github/issues/DevXDojo/EasyTransfer)](https://github.com/DevXDojo/EasyTransfer/issues) [![GitHub pull requests](https://img.shields.io/github/issues-pr/DevXDojo/EasyTransfer)](https://github.com/DevXDojo/EasyTransfer/pulls) [![GitHub license](https://img.shields.io/github/license/DevXDojo/EasyTransfer)](https://github.com/DevXDojo/EasyTransfer/blob/main/LICENSE) ![GitHub package.json version](https://img.shields.io/github/package-json/v/DevXDojo/EasyTransfer?filename=client%2Fpackage.json)
 
 <a href="https://file.ch3nyang.top/"><img src="assets/exp_now_zhcn.svg" alt="立即体验" height="50" /></a>
 
@@ -42,14 +42,14 @@ EasyTransfer 是一款免费、匿名、加密且易于使用的 E2EE 文件传�
 
 ## 自行部署
 
-具体部署方法请参照[项目 Wiki](https://github.com/WCY-dt/EasyTransfer/wiki/导航)。
+具体部署方法请参照[项目 Wiki](https://github.com/DevXDojo/EasyTransfer/wiki/导航)。
 
 ## 贡献本项目
 
-如果您想为本项目贡献代码，请参照[贡献指南](https://github.com/WCY-dt/EasyTransfer/blob/main/CONTRIBUTING.md)。
+如果您想为本项目贡献代码，请参照[贡献指南](https://github.com/DevXDojo/EasyTransfer/blob/main/CONTRIBUTING.md)。
 
 ## 更新日志
 
-请参照 [CHANGELOG](https://github.com/WCY-dt/EasyTransfer/blob/main/CHANGELOG.md)。
+请参照 [CHANGELOG](https://github.com/DevXDojo/EasyTransfer/blob/main/CHANGELOG.md)。
 
 [^1]: 在通信双方需要内网穿透时，文件可能会上传到本项目提供的免费 TURN 服务器。您可以自行部署一个可信的 TURN 服务器来避免这种情况。

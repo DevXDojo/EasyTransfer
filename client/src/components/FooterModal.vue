@@ -10,19 +10,19 @@ const { t } = useI18n()
   <footer>
     <p>{{ t('footer.copyright') }}</p>
     <p>
-      <a href="https://github.com/WCY-dt/EasyTransfer/blob/main/README.md">
+      <a href="https://github.com/DevXDojo/EasyTransfer/blob/main/README.md">
         <SvgIcon type="mdi" :path="mdiInformation" size="1.2rem" />{{
           t('footer.about')
         }}
       </a>
       |
-      <a href="https://github.com/WCY-dt/EasyTransfer/issues/new/choose">
+      <a href="https://github.com/DevXDojo/EasyTransfer/issues/new/choose">
         <SvgIcon type="mdi" :path="mdiCommentQuote" size="1.2rem" />{{
           t('footer.feedback')
         }}
       </a>
       |
-      <a href="https://github.com/WCY-dt/EasyTransfer">
+      <a href="https://github.com/DevXDojo/EasyTransfer">
         <SvgIcon type="mdi" :path="mdiGithub" size="1.2rem" />{{
           t('footer.github')
         }}
