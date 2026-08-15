@@ -294,7 +294,7 @@ export const useMyStore = defineStore('myStore', () => {
 ### File Locations for Common Tasks
 
 | Task | Location |
-|------|----------|
+| ------ | ---------- |
 | Add UI component | `/client/src/components/` |
 | Modify connection logic | `/client/src/stores/` or `/client/src/utils/` |
 | Add server event handler | `/server/src/server.ts` |
@@ -479,7 +479,7 @@ When making changes, update:
 
 ### Project Documentation
 
-- [EasyTransfer Wiki](https://github.com/WCY-dt/EasyTransfer/wiki/Navigator)
+- [EasyTransfer Wiki](https://github.com/DevXDojo/EasyTransfer/wiki/Navigator)
 - [Contributing Guide](CONTRIBUTING.md)
 - [Security Policy](SECURITY.md)
 

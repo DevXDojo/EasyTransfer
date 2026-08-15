@@ -5,7 +5,7 @@
 
 [简体中文](README_ZH-cn.md) | English
 
-[![GitHub issues](https://img.shields.io/github/issues/WCY-dt/EasyTransfer)](https://github.com/WCY-dt/EasyTransfer/issues) [![GitHub pull requests](https://img.shields.io/github/issues-pr/WCY-dt/EasyTransfer)](https://github.com/WCY-dt/EasyTransfer/pulls) [![GitHub license](https://img.shields.io/github/license/WCY-dt/EasyTransfer)](https://github.com/WCY-dt/EasyTransfer/blob/main/LICENSE) ![GitHub package.json version](https://img.shields.io/github/package-json/v/WCY-dt/EasyTransfer?filename=client%2Fpackage.json)
+[![GitHub issues](https://img.shields.io/github/issues/DevXDojo/EasyTransfer)](https://github.com/DevXDojo/EasyTransfer/issues) [![GitHub pull requests](https://img.shields.io/github/issues-pr/DevXDojo/EasyTransfer)](https://github.com/DevXDojo/EasyTransfer/pulls) [![GitHub license](https://img.shields.io/github/license/DevXDojo/EasyTransfer)](https://github.com/DevXDojo/EasyTransfer/blob/main/LICENSE) ![GitHub package.json version](https://img.shields.io/github/package-json/v/DevXDojo/EasyTransfer?filename=client%2Fpackage.json)
 
 <a href="https://file.ch3nyang.top/"><img src="assets/exp_now.svg" alt="Experience Now" height="50" /></a>
 
@@ -42,14 +42,14 @@ What makes EasyTransfer different? It's these features:
 
 ## Self-deployment
 
-For specific deployment methods, please refer to the [Project Wiki](https://github.com/WCY-dt/EasyTransfer/wiki/Navigator).
+For specific deployment methods, please refer to the [Project Wiki](https://github.com/DevXDojo/EasyTransfer/wiki/Navigator).
 
 ## Contributing
 
-If you want to contribute code to this project, please refer to the [Contribution Guide](https://github.com/WCY-dt/EasyTransfer/blob/main/CONTRIBUTING.md).
+If you want to contribute code to this project, please refer to the [Contribution Guide](https://github.com/DevXDojo/EasyTransfer/blob/main/CONTRIBUTING.md).
 
 ## Changelog
 
-Please refer to the [CHANGELOG](https://github.com/WCY-dt/EasyTransfer/blob/main/CHANGELOG.md).
+Please refer to the [CHANGELOG](https://github.com/DevXDojo/EasyTransfer/blob/main/CHANGELOG.md).
 
 [^1]: If the communicating peers need to penetrate the intranet, the file may be uploaded to the free TURN server provided by this project. You can avoid this by deploying a trusted TURN server yourself.

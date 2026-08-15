@@ -82,6 +82,6 @@ Security updates are prioritized and released as soon as possible:
 
 - [WebRTC Security](https://webrtc-security.github.io/)
 - [OWASP WebRTC Security](https://owasp.org/www-community/vulnerabilities/WebRTC_Security)
-- [Project Wiki](https://github.com/WCY-dt/EasyTransfer/wiki/Navigator)
+- [Project Wiki](https://github.com/DevXDojo/EasyTransfer/wiki/Navigator)
 
 Thank you for helping keep EasyTransfer secure!

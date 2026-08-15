@@ -154,7 +154,7 @@ We welcome various types of contributions:
 
 ## Getting Help
 
-- Check the [Project Wiki](https://github.com/WCY-dt/EasyTransfer/wiki/Navigator) for documentation
+- Check the [Project Wiki](https://github.com/DevXDojo/EasyTransfer/wiki/Navigator) for documentation
 - Review [AGENTS.md](AGENTS.md) for development guidelines
 - Ask questions in GitHub Issues
 - Read existing code to understand patterns
