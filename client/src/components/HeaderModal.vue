@@ -16,7 +16,7 @@ const toggleSettings = (): void => {
   <header>
     <div class="header-cluster">
       <div class="logo-cluster">
-        <img src="../../favicon.png" alt="EasyTransfer Logo" />
+        <img src="/favicon.png" alt="EasyTransfer Logo" />
       </div>
       <div class="link-cluster">
         <button class="link-item shadow" @click="toggleSettings">
