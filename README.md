@@ -1,17 +1,13 @@
 <div align="center">
-<img src="assets/favicon.svg" alt="logo" width="100" height="100" />
-
-<h1>EasyTransfer</h1>
+<img src="assets/favicon.png" alt="logo" height="100" />
 
 [简体中文](README_ZH-cn.md) | English
 
-[![GitHub issues](https://img.shields.io/github/issues/DevXDojo/EasyTransfer)](https://github.com/DevXDojo/EasyTransfer/issues) [![GitHub pull requests](https://img.shields.io/github/issues-pr/DevXDojo/EasyTransfer)](https://github.com/DevXDojo/EasyTransfer/pulls) [![GitHub license](https://img.shields.io/github/license/DevXDojo/EasyTransfer)](https://github.com/DevXDojo/EasyTransfer/blob/main/LICENSE) ![GitHub package.json version](https://img.shields.io/github/package-json/v/DevXDojo/EasyTransfer?filename=client%2Fpackage.json)
+![Sample](assets/og-image.png)
 
 <a href="https://file.ch3nyang.top/"><img src="assets/exp_now.svg" alt="Experience Now" height="50" /></a>
 
 </div>
-
-![Sample](assets/og-image.png)
 
 EasyTransfer is a free, anonymous, encrypted, and easy-to-use E2EE file transfer tool. You only need to visit a simple web page to connect to **any device** in **any network** using a device code.
 
@@ -53,3 +49,8 @@ If you want to contribute code to this project, please refer to the [Contributio
 Please refer to the [CHANGELOG](https://github.com/DevXDojo/EasyTransfer/blob/main/CHANGELOG.md).
 
 [^1]: If the communicating peers need to penetrate the intranet, the file may be uploaded to the free TURN server provided by this project. You can avoid this by deploying a trusted TURN server yourself.
+
+<div align="center">
+  <img src="assets/sponsor.png" alt="Sponsor EasyTransfer"/>
+  <p>Made with ❤️ by the EasyTransfer Team</p>
+</div>

@@ -1,17 +1,13 @@
 <div align="center">
-<img src="assets/favicon.svg" alt="logo" width="100" height="100" />
-
-<h1>EasyTransfer</h1>
+<img src="assets/favicon.png" alt="logo" height="100" />
 
 [English](README.md) | 简体中文
 
-[![GitHub issues](https://img.shields.io/github/issues/DevXDojo/EasyTransfer)](https://github.com/DevXDojo/EasyTransfer/issues) [![GitHub pull requests](https://img.shields.io/github/issues-pr/DevXDojo/EasyTransfer)](https://github.com/DevXDojo/EasyTransfer/pulls) [![GitHub license](https://img.shields.io/github/license/DevXDojo/EasyTransfer)](https://github.com/DevXDojo/EasyTransfer/blob/main/LICENSE) ![GitHub package.json version](https://img.shields.io/github/package-json/v/DevXDojo/EasyTransfer?filename=client%2Fpackage.json)
+![样例](assets/og-image.png)
 
 <a href="https://file.ch3nyang.top/"><img src="assets/exp_now_zhcn.svg" alt="立即体验" height="50" /></a>
 
 </div>
-
-![样例](assets/og-image.png)
 
 EasyTransfer 是一款免费、匿名、加密且易于使用的 E2EE 文件传输工具。您只需访问一个简单的网页，即可使用设备代码连接到**任何网络**中的**任何设备**。
 
@@ -53,3 +49,8 @@ EasyTransfer 是一款免费、匿名、加密且易于使用的 E2EE 文件传�
 请参照 [CHANGELOG](https://github.com/DevXDojo/EasyTransfer/blob/main/CHANGELOG.md)。
 
 [^1]: 在通信双方需要内网穿透时，文件可能会上传到本项目提供的免费 TURN 服务器。您可以自行部署一个可信的 TURN 服务器来避免这种情况。
+
+<div align="center">
+  <img src="assets/sponsor.png" alt="Sponsor EasyTransfer"/>
+  <p>Made with ❤️ by the EasyTransfer Team</p>
+</div>
