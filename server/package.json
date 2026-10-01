@@ -22,18 +22,18 @@
   "author": "ch3nyang",
   "license": "MIT",
   "dependencies": {
-    "socket.io": "^4.8.3"
+    "socket.io": "^4.8.4"
   },
   "devDependencies": {
     "@eslint/js": "^10.0.1",
-    "@types/node": "^26.2.0",
-    "@typescript-eslint/eslint-plugin": "^8.67.0",
+    "@types/node": "^26.6.3",
+    "@typescript-eslint/eslint-plugin": "^8.71.0",
     "@typescript-eslint/parser": "^8.67.0",
-    "@vitest/ui": "^4.1.10",
-    "eslint": "^10.8.1",
+    "@vitest/ui": "^5.0.2",
+    "eslint": "^10.11.0",
     "nodemon": "^3.1.14",
-    "prettier": "^3.9.6",
-    "typescript": "^6.0.3",
-    "vitest": "^4.1.10"
+    "prettier": "^3.9.9",
+    "typescript": "^7.0.2",
+    "vitest": "^5.0.2"
   }
 }
