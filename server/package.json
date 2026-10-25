@@ -29,7 +29,7 @@
     "@types/node": "^26.2.0",
     "@typescript-eslint/eslint-plugin": "^8.67.0",
     "@typescript-eslint/parser": "^8.67.0",
-    "@vitest/ui": "^4.1.10",
+    "@vitest/ui": "^5.0.0",
     "eslint": "^10.8.1",
     "nodemon": "^3.1.14",
     "prettier": "^3.9.6",
